@@ -1,0 +1,19 @@
+{
+  "person": {
+    "Name": "Rohman",
+    "Age": "18",
+    "Gender": "Male",
+    "Address": [
+      {
+        "nameAddress": "Home",
+        "detailAddress": "Griya Ciledug",
+        "city": "Tangerang"
+      },
+      {
+        "nameAddress": "Office",
+        "detailAddress": "Breeze BSD",
+        "city": "Tangsel"
+      }
+    ]
+  }
+}
